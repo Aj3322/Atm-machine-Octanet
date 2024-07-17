@@ -59,4 +59,9 @@ Contributions are welcome! Please follow these steps to contribute:
 ## License
 
 ### Notes:
-- Replace placeholders like `[Link to deployed app]('https://ajay-styles-atm.streamlit.app/')`.
+- App Link `https://ajay-styles-atm.streamlit.app/'`.
+- 
+<img src="https://github.com/user-attachments/assets/0f0e82ec-7fdc-4f08-9cbd-f469785343dc" heigth="300" width="500"/>
+<img src="https://github.com/user-attachments/assets/ab87440e-4292-4444-b20f-a3b422270203" heigth="300" width="500"/>
+<img src="https://github.com/user-attachments/assets/5c93fff2-c3b8-4afd-a7d8-bd7d5c60cd33" heigth="300" width="500"/>
+
